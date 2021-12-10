@@ -1,0 +1,20 @@
+{
+  "CONTRACT_ADDRESS": "0xbcfB6716636462Ec1865d98caA6F6555D8B93f9d",
+  "OWNER_ADDRESS": "0x05D5aF0dD6410924b785b9622DABB804EAA0b500",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xbcfB6716636462Ec1865d98caA6F6555D8B93f9d",
+  "NETWORK": {
+    "NAME": "rinkeby test network",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "ButoHead",
+  "SYMBOL": "BH",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 300000000000000,
+  
+  "DISPLAY_COST": 0.0003,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/butohead",
+  "SHOW_BACKGROUND": true
+}
